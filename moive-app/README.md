@@ -1,0 +1,5 @@
+- This is React Movie Searching APP
+- I have used SCSS for styling
+- I have used IMBD api for fetching the data
+- Used React-router-dom for route betweeen the pages
+- Used Redux-ToolKit for maintaining the state thorugh out the site
