@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Christian dffffff",
+      "phone": "(05) 7315 2756",
+      "email": "sdfdasfdsafdva",
+      "address": "Ap #630-2087 Odio St.",
+      "contact": "75"
+    },
+    {
+      "id": 3,
+      "name": "Jeremy Langley",
+      "phone": "(04) 8250 5975",
+      "email": "nibh.donec.est@protonmail.net",
+      "address": "Ap #585-2332 Lacus. Avenue"
+    },
+    {
+      "id": 4,
+      "name": "Preston Salazar",
+      "phone": "(08) 7178 9223",
+      "email": "dui@hotmail.com",
+      "address": "743-2206 Non Street"
+    },
+    {
+      "name": "Gowtham C",
+      "email": "gowthamtceian@gmaidfl.com",
+      "phone": "12324",
+      "address": "Tirupur",
+      "id": 10
+    }
+  ]
+}
